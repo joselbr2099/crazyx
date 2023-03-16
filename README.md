@@ -1,11 +1,11 @@
-                               
+ ``` 
   ___ _ __ __ _ _____   ___  __
  / __| '__/ _` |_  / | | \ \/ /
 | (__| | | (_| |/ /| |_| |>  < 
  \___|_|  \__,_/___|\__, /_/\_\
                      __/ |     
                     |___/      
-                    
+```
 # My Programming Journey
 
 Este repositorio documenta mi viaje de aprendizaje en diversos lenguajes de programación, incluidos ASM, Bash, C, C++, Dart, Golang, Java, JavaScript, PHP, PowerShell, Python y Rust. 
